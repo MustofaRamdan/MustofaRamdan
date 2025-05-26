@@ -53,7 +53,7 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://31u7r5gkt5xhp5dpne44l7fhrn6e.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify now playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31u7r5gkt5xhp5dpne44l7fhrn6e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
