@@ -5,10 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=MustofaRamdan&label=Profile%20views&color=0e75b6&style=flat" alt="MustofaRamdan" />
 </p>
 
-- 🔭 I’m currently working on **my animated Ghibli-themed portfolio**
-- 🌱 I’m learning **Vue, React, and advanced frontend animation**
 - 💬 Ask me about **PHP, Laravel, REST API, or Flutter**
-- 📫 Reach me at: **mustofa.ramdan@email.com**
+- 📫 Reach me at: **mustofaramdan749@gmail.com**
 
 ---
 
@@ -24,16 +22,10 @@
 
 ### ⏱️ Coding Stats from CodeTime
 
-> **My activity over the last week**
-
-<p align="center">
-  <img src="https://code-time-insights.vercel.app/api/badge?user=MustofaRamdan" alt="CodeTime badge" />
-</p>
-
 > **Yearly coding time**
 
 <p align="center">
-  <img src="https://code-time-insights.vercel.app/api/yearly?user=MustofaRamdan" alt="Yearly coding time" />
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32809">
 </p>
 
 🔗 Get your own: [https://codetime.dev](https://codetime.dev)
